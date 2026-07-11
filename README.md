@@ -14,7 +14,7 @@ Aplikasi desktop berbasis Java Swing untuk mengelola katalog media, menulis revi
 
 ---
 
-![MediaTrack Login Screen](screenshots/login.png)
+![MediaTrack Login Screen](screenshots/login.PNG)
 
 </div>
 
@@ -29,19 +29,19 @@ Aplikasi desktop berbasis Java Swing untuk mengelola katalog media, menulis revi
 
 | Menu Utama (Admin)                        | Menu Utama (User)                       |
 | ----------------------------------------- | --------------------------------------- |
-| ![Menu Admin](screenshots/menu_admin.png) | ![Menu User](screenshots/menu_user.png) |
+| ![Menu Admin](screenshots/menu_admin.PNG) | ![Menu User](screenshots/menu_user.PNG) |
 
 | Data Media — Kartu Visual                 | Review & Rating                   |
 | ----------------------------------------- | --------------------------------- |
-| ![Data Media](screenshots/data_media.png) | ![Review](screenshots/review.png) |
+| ![Data Media](screenshots/data_media.PNG) | ![Review](screenshots/review.PNG) |
 
 | Inbox Notifikasi                | Laporan & Statistik                 |
 | ------------------------------- | ----------------------------------- |
-| ![Inbox](screenshots/inbox.png) | ![Laporan](screenshots/laporan.png) |
+| ![Inbox](screenshots/inbox.PNG) | ![Laporan](screenshots/laporan.PNG) |
 
 | Crop Foto Profil              | Tab Request & Saran                 |
 | ----------------------------- | ----------------------------------- |
-| ![Crop](screenshots/crop.png) | ![Request](screenshots/request.png) |
+| ![Crop](screenshots/crop.PNG) | ![Request](screenshots/request.PNG) |
 
 </details>
 
